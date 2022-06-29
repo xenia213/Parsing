@@ -4,8 +4,8 @@
 It is necessary to write a PHP script that processes the access_log file with the output of information in the form of json.
 
 ## **Run the script**
-Option 1: #!/bin/bash  
-php parser.php access_log
+1. sudo chmod +x script.sh
+2. ./script.sh
 
 Option 2: script.sh
 
