@@ -7,9 +7,6 @@ It is necessary to write a PHP script that processes the access_log file with th
 1. sudo chmod +x script.sh
 2. ./script.sh
 
-Option 2: script.sh
-
-
 ## **Output**
 {
   views: 16,
